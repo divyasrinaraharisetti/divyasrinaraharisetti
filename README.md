@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyasri Naraharisetti</h1>
 <h3 align="center">A passionate Full Stack Developer and Data Analyst, I love making products with a passion for creating innovative solutions.</h3>
 
-- 💬 Ask me about **Python, JavaScript, React, Django**
+- 💬 Ask me about **Python, JavaScript, and React**
 
 - 📫 How to reach me **d.naraharisetti15@gmail.com**
 
