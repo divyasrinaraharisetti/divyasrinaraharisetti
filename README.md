@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Divyasri Naraharisetti</h1>
-<h3 align="center">A passionate Full Stack Developer and Data Analyst, I love making products with a passion for creating innovative solutions.</h3>
+<h3 align="center">A passionate Full Stack Developer, I love making products with a passion for creating innovative solutions.</h3>
 
-- 💬 Ask me about **Python, JavaScript, React, and Data Analysis**
+- 💬 Ask me about **Python, JavaScript, Node, React**
 
 - 📫 How to reach me **d.naraharisetti15@gmail.com**
 
